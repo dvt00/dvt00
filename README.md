@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Foto de mi criatura]()
+![Foto de mi criatura](IMG-20240420-WA0000.jpg)
 <!--
 **dvt00/dvt00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
